@@ -8,6 +8,9 @@ This project analyzes the Stack Overflow 2017 survey data using Python programmi
 This project aims to analyze the demographic information, work habits, and preferences of developers who participated in the Stack Overflow 2017 survey. 
 The goal is to extract interesting insights from the survey data and understand the overall trends in the developer community.
 
+#### Project Motivation
+Inspired by the 2017 Stack Overflow survey, our project embarks on a data-driven journey to uncover the intricate interplay between programming languages and job-seeking dynamics across different countries. By delving into the multifaceted landscape of employment and skills, we aspire to provide a comprehensive understanding of how developers' expertise, job-seeking status, and geographic location intersect. This endeavor ignites our passion, as it promises to shed light on the global job market and empower both job seekers and employers with invaluable insights for making informed decisions.
+
 #### Installation
 Clone this project to your computer: git clone https://github.com/Caner-Kut/my-data-science-project.git
 Install the required Python packages by running the following command: pip install -r requirements.txt
