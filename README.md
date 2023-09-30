@@ -8,7 +8,7 @@ This project aims to analyze the demographic information, work habits, and prefe
 The goal is to extract interesting insights from the survey data and understand the overall trends in the developer community.
 
 Installation
-Clone this project to your computer: git clone https://github.com/username/project.git
+Clone this project to your computer: git clone https://github.com/Caner-Kut/my-data-science-project.git
 Install the required Python packages by running the following command: pip install -r requirements.txt
 Usage
 Add the Stack Overflow 2017 survey data to the data folder.
