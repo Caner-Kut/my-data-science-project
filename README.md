@@ -30,5 +30,8 @@ This project is licensed under the MIT License. For more information, please see
 #### Thanks
 [![Udacity](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)
 
+## Project Prosess (Data Preparation - Modelling - Visualization)
+
+
 *This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
 
