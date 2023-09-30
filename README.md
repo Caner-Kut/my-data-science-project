@@ -32,6 +32,9 @@ This project is licensed under the MIT License. For more information, please see
 
 ## Project Prosess (Data Preparation - Modelling - Visualization)
 
+The tech industry is constantly evolving, and programming languages play a crucial role in its development. In this blog post, we will analyze the usage of programming languages and the job-seeking trends in the tech industry using a dataset from a survey conducted among professionals. By exploring this data, we aim to gain insights into the most popular programming languages and the job-seeking behavior of professional developers.
+
+
 
 *This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
 
