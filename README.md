@@ -19,7 +19,7 @@ Check the results folder for the generated visualizations.
 #### Contributions
 This project is open-source and we welcome contributions! If you would like to contribute to the project, please submit a pull request.
 
-### License
+#### License
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
 
 *This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
