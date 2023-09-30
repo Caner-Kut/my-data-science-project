@@ -22,7 +22,7 @@ Check the results folder for the generated visualizations.
 ##### Libraries
 Pandas Link: https://pandas.pydata.org/
 Matlotlib Link: https://matplotlib.org/
-Numohy Link :https://numpy.org/
+Numpy Link :https://numpy.org/
 #### Contributions
 This project is open-source and we welcome contributions! If you would like to contribute to the project, please submit a pull request.
 #### License
