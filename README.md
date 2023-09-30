@@ -16,7 +16,7 @@ Clone this project to your computer: git clone https://github.com/Caner-Kut/my-d
 Install the required Python packages by running the following command: pip install -r requirements.txt
 #### Usage
 Add the Stack Overflow 2017 survey data to the data folder.
-Open the Stack_Overflow_Analysis.ipynb file with Jupyter Notebook or JupyterLab.
+Open the Stack_Overflow_Survey_Analysis.ipynb file with Jupyter Notebook or JupyterLab.
 Run the code snippets to perform the analysis.
 Check the results folder for the generated visualizations.
 #### Contributions
