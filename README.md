@@ -19,7 +19,7 @@ Add the Stack Overflow 2017 survey data to the data folder.
 Open the Stack_Overflow_Survey_Analysis.ipynb file with Jupyter Notebook or JupyterLab.
 Run the code snippets to perform the analysis.
 Check the results folder for the generated visualizations.
-##### Libraries
+#### Libraries
 Pandas Link: https://pandas.pydata.org/
 Matlotlib Link: https://matplotlib.org/
 Numpy Link :https://numpy.org/
@@ -27,6 +27,8 @@ Numpy Link :https://numpy.org/
 This project is open-source and we welcome contributions! If you would like to contribute to the project, please submit a pull request.
 #### License
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
+#### Thanks
+[![Udacity](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)
 
 *This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
 
