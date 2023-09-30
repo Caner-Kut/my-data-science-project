@@ -25,5 +25,5 @@ This project is open-source and we welcome contributions! If you would like to c
 #### License
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
 
-* This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
+*This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
 
