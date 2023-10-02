@@ -5,8 +5,8 @@ This repository & README includes my first data analysis &amp; visualizations
 
 - [Stack Overflow 2017 Survey Analysis](#Stack Overflow 2017 Survey Analysis)
 - [About the Project](#About the Project)
-- [Project Motivation](#projectmotivation)
-- [Installation](#installation)
+- [Motivation](#Motivation)
+- [Installation(#installation)
 - [Usage](#usage)
 - [Libraries](#libraries)
 - [Contributions](#contributions)
@@ -21,7 +21,7 @@ This project analyzes the Stack Overflow 2017 survey data using Python programmi
 This project aims to analyze the demographic information, work habits, and preferences of developers who participated in the Stack Overflow 2017 survey. 
 The goal is to extract interesting insights from the survey data and understand the overall trends in the developer community.
 
-#### Project Motivation
+#### Motivation
 Inspired by the 2017 Stack Overflow survey, our project embarks on a data-driven journey to uncover the intricate interplay between programming languages and job-seeking dynamics across different countries. By delving into the multifaceted landscape of employment and skills, we aspire to provide a comprehensive understanding of how developers' expertise, job-seeking status, and geographic location intersect. This endeavor ignites our passion, as it promises to shed light on the global job market and empower both job seekers and employers with invaluable insights for making informed decisions.
 
 #### Installation
