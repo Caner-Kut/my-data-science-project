@@ -3,8 +3,8 @@ This repository & README includes my first data analysis &amp; visualizations
 
 ## Table of contents
 
-- [Stack Overflow 2017 Survey Analysis](#Analysis)
-- [About the Project](#Project)
+- [Analysis](#Analysis)
+- [Project](#Project)
 - [Motivation](#Motivation)
 - [Installation](#Installation)
 - [Usage](#usage)
@@ -14,10 +14,10 @@ This repository & README includes my first data analysis &amp; visualizations
 - [Thanks](#thanks)
 - [Project Process (Data Preparation - Modelling - Visualization)](#Projectprocess)
 
-## Stack Overflow 2017 Survey Analysis
+## Analysis
 This project analyzes the Stack Overflow 2017 survey data using Python programming language. Below, you can find information about how to use the project and what each code snippet does.
 
-#### About the Project
+#### Project
 This project aims to analyze the demographic information, work habits, and preferences of developers who participated in the Stack Overflow 2017 survey. 
 The goal is to extract interesting insights from the survey data and understand the overall trends in the developer community.
 
