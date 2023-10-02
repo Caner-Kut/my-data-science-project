@@ -3,8 +3,8 @@ This repository & README includes my first data analysis &amp; visualizations
 
 ## Table of contents
 
-- [Stack Overflow 2017 Survey Analysis](#Stack Overflow 2017 Survey Analysis)
-- [About the Project](#About the Project)
+- [Stack Overflow 2017 Survey Analysis](#Analysis)
+- [About the Project](#Project)
 - [Motivation](#Motivation)
 - [Installation](#Installation)
 - [Usage](#usage)
