@@ -11,9 +11,8 @@ This repository & README includes my first data analysis &amp; visualizations
 - [Libraries](#libraries)
 - [Contributions](#contributions)
 - [License](#license)
-- [Thanks](#creators)
 - [Thanks](#thanks)
-- [Project Prosess (Data Preparation - Modelling - Visualization)](#Project Prosess (Data Preparation - Modelling - Visualization))
+- [Project Process (Data Preparation - Modelling - Visualization)](#Projectprocess)
 
 ## Stack Overflow 2017 Survey Analysis
 This project analyzes the Stack Overflow 2017 survey data using Python programming language. Below, you can find information about how to use the project and what each code snippet does.
@@ -44,7 +43,7 @@ This project is licensed under the MIT License. For more information, please see
 #### Thanks
 [![Udacity](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)](https://cdn.iconscout.com/icon/free/png-256/free-udacity-1-282901.png?f=webp)
 
-## Project Prosess (Data Preparation - Modelling - Visualization)
+## Project Process (Data Preparation - Modelling - Visualization)
 
 The tech industry is constantly evolving, and programming languages play a crucial role in its development. In this blog post, we will analyze the usage of programming languages and the job-seeking trends in the tech industry using a dataset from a survey conducted among professionals. By exploring this data, we aim to gain insights into the most popular programming languages and the job-seeking behavior of professional developers.
 
