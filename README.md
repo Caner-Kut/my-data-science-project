@@ -5,7 +5,7 @@ This repository & README includes my first data analysis &amp; visualizations
 
 - [Stack Overflow 2017 Survey Analysis](#Stack Overflow 2017 Survey Analysis)
 - [About the Project](#About the Project)
-- [Project Motivation](#project motivation)
+- [Project Motivation](#projectmotivation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Libraries](#libraries)
