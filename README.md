@@ -1,6 +1,20 @@
 # My First Data Science Project : Stack Overflow 2017 Survey Analysis
 This repository & README includes my first data analysis &amp; visualizations
 
+## Table of contents
+
+- [Stack Overflow 2017 Survey Analysis](#Stack Overflow 2017 Survey Analysis)
+- [About the Project](#About the Project)
+- [Project Motivation](#project motivation)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Libraries](#libraries)
+- [Contributions](#contributions)
+- [License](#license)
+- [Thanks](#creators)
+- [Thanks](#thanks)
+- [Project Prosess (Data Preparation - Modelling - Visualization)](#Project Prosess (Data Preparation - Modelling - Visualization))
+
 ## Stack Overflow 2017 Survey Analysis
 This project analyzes the Stack Overflow 2017 survey data using Python programming language. Below, you can find information about how to use the project and what each code snippet does.
 
