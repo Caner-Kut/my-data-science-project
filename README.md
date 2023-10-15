@@ -56,37 +56,8 @@ This project is licensed under the MIT License. For more information, please see
 
 The tech industry is constantly evolving, and programming languages play a crucial role in its development. In this blog post, we will analyze the usage of programming languages and the job-seeking trends in the tech industry using a dataset from a survey conducted among professionals. By exploring this data, we aim to gain insights into the most popular programming languages and the job-seeking behavior of professional developers.
 
-### We will try to answer this kind of questions in analysis,you will find code in python file.Here is the some sample code related analysis.
+### We will try to answer this kind of questions in analysis,you will find code in python file.
 
-```python
-# Prepare to data ;
-#(only professional developer job seeking by country) 
-onlyprof_jobseeking_bycountry = df.dropna(subset=['Professional', 'Country','JobSeekingStatus'], how='any') # Dropping rows with missing values in 'Professional', 'Country', and 'JobSeekingStatus' columns
-onlyprof_jobseeking_bycountry # show dataframe
-```
-
-```python
-#it could be better if we see the 'Professionals in chart'
-colors = ['red', 'blue', 'green', 'orange','pink']
-(status_professional/df.shape[0]).plot(kind="bar",color=colors);
-plt.title("Professional Status");
-```
-
-```python
-country_counts = actively_status['Country'].value_counts() # Calculate the count of job seekers actively looking for a job in each country.
-
-range_by_country=(country_counts[:20]/df.shape[0]) # Calculate the relative frequency of the top 20 countries in the 'country_counts' DataFrame
-# by dividing their counts by the total number of records in the original 'df' DataFrame.
-```
-```python
-plt.figure(figsize=(12, 6))
-(country_counts[:20]/df.shape[0]).plot(kind='bar',color=colors)
-plt.xlabel('Country')
-plt.ylabel('Proportion')
-plt.title('Professional Developer Job Seekers by Country')
-plt.xticks(rotation=45)
-plt.show()
-```
 
  #### For Medium Blog Post Link is also here  : https://medium.com/@canerkutt/analyzing-stack-overflow-survey-data-unveiling-insights-from-developers-c27a8fd8b71d/ 
 
