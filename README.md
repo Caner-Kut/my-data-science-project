@@ -44,7 +44,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
-
+```
 #### Contributions
 This project is open-source and we welcome contributions! If you would like to contribute to the project, please submit a pull request.
 #### License
