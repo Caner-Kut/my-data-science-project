@@ -36,6 +36,15 @@ Check the results folder for the generated visualizations.
 Pandas Link: https://pandas.pydata.org/
 Matlotlib Link: https://matplotlib.org/
 Numpy Link :https://numpy.org/
+
+```python
+# Import libraries
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+%matplotlib inline
+
 #### Contributions
 This project is open-source and we welcome contributions! If you would like to contribute to the project, please submit a pull request.
 #### License
