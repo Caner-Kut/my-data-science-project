@@ -74,7 +74,6 @@ plt.title("Professional Status");
 
 ```python
 country_counts = actively_status['Country'].value_counts() # Calculate the count of job seekers actively looking for a job in each country.
-```
 
 range_by_country=(country_counts[:20]/df.shape[0]) # Calculate the relative frequency of the top 20 countries in the 'country_counts' DataFrame
 # by dividing their counts by the total number of records in the original 'df' DataFrame. 
