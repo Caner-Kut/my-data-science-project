@@ -49,9 +49,9 @@ The tech industry is constantly evolving, and programming languages play a cruci
 
 
 
-#We will try to answer this kind of questions in analysis,you will find code in python file.Here is the some analysis question that helps us below.
+# We will try to answer this kind of questions in analysis,you will find code in python file.Here is the some analysis question that helps us below.
 
-#How did you handle missing values in your dataset, and why is it important in data analysis?
+'How did you handle missing values in your dataset, and why is it important in data analysis?
 
 #Can you explain the significance of the 'Professional,' 'Country,' and 'JobSeekingStatus' columns in your analysis? What role do these variables play in your research?
 
