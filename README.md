@@ -47,7 +47,33 @@ This project is licensed under the MIT License. For more information, please see
 
 The tech industry is constantly evolving, and programming languages play a crucial role in its development. In this blog post, we will analyze the usage of programming languages and the job-seeking trends in the tech industry using a dataset from a survey conducted among professionals. By exploring this data, we aim to gain insights into the most popular programming languages and the job-seeking behavior of professional developers.
 
-For Medium Blog Post Link is Here  : https://medium.com/@canerkutt/analyzing-stack-overflow-survey-data-unveiling-insights-from-developers-c27a8fd8b71d/ 
+
+
+#We will try to answer this kind of questions in analysis,you will find code in python file.Here is the some analysis question that helps us below.
+
+#How did you handle missing values in your dataset, and why is it important in data analysis?
+
+#Can you explain the significance of the 'Professional,' 'Country,' and 'JobSeekingStatus' columns in your analysis? What role do these variables play in your research?
+
+#You've created a bar chart to visualize professional status. Could you elaborate on the insights you gained from this chart?
+
+#In your analysis of job-seeking professionals, what criteria did you use to define "Professional developer," and why is this distinction relevant?
+
+#You've compared the proportions of job-seeking professionals by country. Were there any unexpected findings or trends that stood out to you?
+
+#The code calculates the most frequently mentioned programming languages. How might this information be valuable to employers or aspiring developers?
+
+#In the analysis of salary data, you used the 'Salary' and 'HaveWorkedLanguage' columns. Could you discuss how these two variables are related and why they are essential in your analysis?
+
+#What can we infer from the bar charts showing maximum and average salaries by programming language? Were there any languages that surprised you with their earnings?
+
+#The code also explores the relationship between company size and programming language usage. Why is this analysis relevant, and what does it reveal about the job market?
+
+#In your analysis of different company sizes (e.g., 20-99 employees, 100-499 employees), did you identify specific programming languages that are particularly popular among professionals in certain-sized companies?
+
+For Medium Blog Post Link is also here  : https://medium.com/@canerkutt/analyzing-stack-overflow-survey-data-unveiling-insights-from-developers-c27a8fd8b71d/ 
+
+You can read the blog related our analysis.
 
 *This README file provides information on how to use the project, installation steps, usage instructions, contributions, and licensing details. You can customize this example to fit your project accordingly.
 
