@@ -57,7 +57,7 @@ This project is licensed under the MIT License. For more information, please see
 The tech industry is constantly evolving, and programming languages play a crucial role in its development. In this blog post, we will analyze the usage of programming languages and the job-seeking trends in the tech industry using a dataset from a survey conducted among professionals. By exploring this data, we aim to gain insights into the most popular programming languages and the job-seeking behavior of professional developers.
 
 ### We will try to answer this kind of questions in analysis,you will find code in python file:
-Link : https://github.com/Caner-Kut/my-data-science-project/blob/main/Stack_Overflow_Survey_Analysis.ipynb
+Link : https://github.com/Caner-Kut/my-data-science-project/blob/main/Stack_Overflow_Survey_Analysis.ipynb/
 
 
  #### For Medium Blog Post Link is also here  : https://medium.com/@canerkutt/analyzing-stack-overflow-survey-data-unveiling-insights-from-developers-c27a8fd8b71d/ 
